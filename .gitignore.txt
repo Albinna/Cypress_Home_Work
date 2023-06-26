@@ -1,0 +1,6 @@
+# Исключить папку с зависимостями Node.js
+node_modules/
+# Исключить файлы записи видео Cypress
+videos/
+# Исключить снимки экрана Cypress
+screenshots/
